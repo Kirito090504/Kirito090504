@@ -11,7 +11,7 @@
             </tr>
             <tr>
                 <td>Frameworks/Services</td>
-                <td><img src="https://skillicons.dev/icons?i=git,react,vue"/></td>
+                <td><img src="https://skillicons.dev/icons?i=git,react,vue,arduino"/></td>
             </tr>
             <tr>
                 <td>Media Editing</td>
