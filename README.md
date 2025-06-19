@@ -210,13 +210,5 @@
     <img src="https://github-readme-stats.vercel.app/api/pin?username=Kirito090504&repo=ProjectSCARS&theme=transparent&hide_border=true&locale=en" align="center"></img>
 </a>
 
-<hr/>
 
-<a href="https://github.com/Kirito090504?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kirito090504&theme=transparent&hide_border=true&locale=en" align="center"></img>
-</a>
-<a href="https://github.com/Chris1320">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kirito090504&count_private=true&show_icons=true&theme=transparent&hide_border=true&locale=en" align="center"></img><br/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kirito090504&theme=transparent" align="center"></img>
-</a>
 
