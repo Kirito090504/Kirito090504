@@ -2,7 +2,6 @@
     <h1>
         <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I'm+Kirito090504;Welcome+to+my+World!;Computer+Science+Student;Full-Stack+Developer;Semfer+Fidelis+🚀&center=true&size=30&color=blueviolet&duration=3000&pause=1000">
     </h1>
-    <h2><a href="">🌐 My Personal Portfolio</a></h2>
     <p>🎓 Computer Science Student | 💻 Aspiring Front-End Developer </p>
     <br/>
     <!-- Contact badges with more platforms -->
