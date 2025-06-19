@@ -1,7 +1,17 @@
 <div align="center">
-    <h1>Hi, I’m Kirito</h1>
-    <p>I’m currently taking the course Bachelor of Science in Computer Science Major in Software Development</p>
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+👋;I'm+Kirito090504;Welcome+to+my+World!;Computer+Science+Student;Full-Stack+Developer;Semfer+Fidelis+🚀&center=true&size=30&color=blueviolet&duration=3000&pause=1000">
+    </h1>
+    <h2><a href="">🌐 My Personal Portfolio</a></h2>
+    <p>🎓 Computer Science Student | 💻 Aspiring Front-End Developer </p>
     <br/>
+    <!-- Contact badges with more platforms -->
+    <p>
+        <a href="https://github.com/Kirito090504"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+        <a href="mailto:tenchieadolfo05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+        <a href="www.linkedin.com/in/tenchie-adolfo-6a4b40257"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+        <a href="https://www.upwork.com/freelancers/~0181fcb6f90fe524c4?mp_source=share"><img src="https://img.shields.io/badge/Upwork-FFFFFF?style=for-the-badge&logo=upwork&logoColor=green"/></a>
+    </p>
     <table>
         <thead><td colspan="2"><b>Toolkit</b></td></thead>
         <tbody>
@@ -27,16 +37,46 @@
             </tr>
         </tbody>
     </table>
-    <!-- <img src="https://komarev.com/ghpvc/?username=Kirito090504&color=blueviolet&style=for-the-badge"></img> -->
+    <img src="https://komarev.com/ghpvc/?username=Kirito090504&color=blueviolet&style=for-the-badge"/>
+    <img src="https://img.shields.io/github/followers/Kirito090504?style=for-the-badge&color=blue"/>
+    <img src="https://img.shields.io/github/stars/Kirito090504?style=for-the-badge&color=yellow"/>
 </div>
-<hr/>
-<p>You can contact me using the following:</p>
-<ul>
-    <li>Email: <a href="mailto:tenchieadolfo05@gmail.com"><i>tenchieadolfo05@gmail.com</i></a></li>
-    <li>Github: <a href="https://github.com/Kirito090504"><i>Kirito090504</i></a></li>
-    <li>LinkedIn: <a href="www.linkedin.com/in/tenchie-adolfo-6a4b40257"><i>Tenchie Adolfo</i></a></li>
-    <li>Upwork: <a href="https://www.upwork.com/freelancers/~0181fcb6f90fe524c4?mp_source=share"><i>Tenchie Adolfo</i></a></li>
-</ul>
+
+<!-- MUSIC_PROFILE_START -->
+## 🎵 Spotify Profile
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**🎤 Spotify**  
+[`@Kirito`](https://open.spotify.com/user/31qnvzxgkj7flzmdgip4osf5ydly?si=26be1701d10b4af3)
+
+</td>
+<td align="center" width="50%">
+
+**🎶 Platform**  
+`Spotify`
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
+**⏰ Last Updated**  
+`Updated: June 19, 2025`
+
+</td>
+</tr>
+</table>
+
+[![Spotify Music Profile](https://img.shields.io/badge/Spotify%20Music-@kirito-green?style=for-the-badge&logo=spotify&logoColor=green)](https://open.spotify.com/user/31qnvzxgkj7flzmdgip4osf5ydly?si=778809a6b0d14ddf)
+[![Listen Along](https://img.shields.io/badge/🎵_Check_My_Playlists-FFFFFF?style=for-the-badge&logo=spotify&logoColor=green)](https://open.spotify.com/playlist/5LgBYWioT5eZWhdqbUmIUr?si=9782d072d8e84e11)
+
+</div>
+<!-- MUSIC_PROFILE_END -->
 
 <h2>Currently Active Public Projects</h2>
 <a href="https://github.com/Kirito090504/ProjectSCARS">
