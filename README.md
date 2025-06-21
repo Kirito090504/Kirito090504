@@ -19,7 +19,7 @@
                 <td><img src="https://skillicons.dev/icons?i=py,cs,cpp,c,java,html,css,typescript,bash"/></td>
             </tr>
             <tr>
-                <td>Frameworks/Services</td>
+                <td>Frameworks/Services/Libraries</td>
                 <td><img src="https://skillicons.dev/icons?i=react,vue,nextjs,nodejs,fastapi,tailwind,firebase,arduino"/></td>
             </tr>
             <tr>
@@ -36,7 +36,7 @@
             </tr>
             <tr>
               <td>Developer Platforms</td>
-              <td><img src="https://skillicons.dev/icons?i=git, github"></td>
+              <td><img src="https://skillicons.dev/icons?i=git,github"></td>
             </tr>
             <tr>
               <td>Social Tools</td>
