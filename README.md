@@ -175,7 +175,7 @@
 ## ⚡ Developer Status
 
 <div align="center">
-    <img src="https://img.shields.io/badge/Coding-Python%20%7C%20JavaScript-blue?style=for-the-badge&logo=code"/>
+    <img src="https://img.shields.io/badge/Coding-Python%20%7C%20TypeScript-blue?style=for-the-badge&logo=code"/>
     <img src="https://img.shields.io/badge/Learning-React%20%7C%20Node.js-green?style=for-the-badge&logo=book"/>
     <img src="https://img.shields.io/badge/Building-Portfolio%20Projects-orange?style=for-the-badge&logo=tools"/>
 </div>
