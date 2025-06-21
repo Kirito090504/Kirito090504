@@ -16,11 +16,11 @@
         <tbody>
             <tr>
                 <td>Languages</td>
-                <td><img src="https://skillicons.dev/icons?i=py,cs,c,java,html,css,typescript,bash"/></td>
+                <td><img src="https://skillicons.dev/icons?i=py,cs,cpp,c,java,html,css,typescript,bash"/></td>
             </tr>
             <tr>
                 <td>Frameworks/Services</td>
-                <td><img src="https://skillicons.dev/icons?i=git,react,vue,arduino"/></td>
+                <td><img src="https://skillicons.dev/icons?i=react,vue,nextjs,nodejs,fastapi,tailwind,firebase,arduino"/></td>
             </tr>
             <tr>
                 <td>Media Editing</td>
@@ -33,6 +33,14 @@
             <tr>
               <td>Organizer/Note Taking</td>
               <td><img src="https://skillicons.dev/icons?i=notion,obsidian"></td>
+            </tr>
+            <tr>
+              <td>Developer Platforms</td>
+              <td><img src="https://skillicons.dev/icons?i=git, github"></td>
+            </tr>
+            <tr>
+              <td>Social Tools</td>
+              <td><img src="https://skillicons.dev/icons?i=gmail,instagram,linkedin,twitter"></td>
             </tr>
         </tbody>
     </table>
