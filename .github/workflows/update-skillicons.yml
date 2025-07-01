@@ -2,7 +2,7 @@ name: Update Profile Content
 
 on:
   schedule:
-    - cron: '0 0 * * 1' # Weekly on Monday
+    - cron: '0 12 * * *' # Weekly on Monday
     - cron: '0 12 * * *' # Daily at noon for music profile
   workflow_dispatch:
   push:
