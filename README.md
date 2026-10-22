@@ -1,6 +1,6 @@
 <div align="center">
     <h1>
-        <img alt="Typing intro: Hello, World! I'm Kirito090504" src="https://readme-typing-svg.demolab.com/?lines=Hello,+World!+👋;I'm+Kirito090504;Welcome+to+my+World!;Computer+Science+Student;Aspiring+Full-Stack+Developer;Semper+Fidelis+🚀&center=true&size=30&color=blueviolet&duration=3000&pause=1000">
+        <img alt="Typing intro: Hello, World! I'm Kirito090504" src="https://readme-typing-svg.demolab.com/?lines=Hello,+World!+%F0%9F%91%8B;I%27m+Kirito090504;Welcome+to+my+World!;Computer+Science+Student;Aspiring+Full-Stack+Developer;Semper+Fidelis+%F0%9F%9A%80&center=true&size=30&color=8A2BE2&duration=3000&pause=1000&width=600">
     </h1>
     <p>🎓 Computer Science Student | 💻 Aspiring Full-Stack Developer</p>
     <br/>
